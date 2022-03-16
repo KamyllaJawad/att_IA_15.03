@@ -43,8 +43,6 @@ Onde g′(n) é a função de custo, que determina quão custoso é mover-se do 
 
 Graph Search
 
-Graph Search
-
 Breadth First Search
 Definição
 
